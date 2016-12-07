@@ -37,11 +37,11 @@ public class SwaggerConfig {
 
 
     private ApiInfo getApiInfo() {
-        ApiInfo apiInfo = new ApiInfo("企业理财唐小僧版客户端API",//大标题
+        ApiInfo apiInfo = new ApiInfo("企业理财客户端API",//大标题
                 "EHR Platform's REST API, for system administrator",//小标题
                 "1.0",//版本
                 "NO terms of service",
-                "yinshipeng@zillionfortune.com",//作者
+                "yinshipeng@126.com",//作者
                 "The Apache License, Version 2.0",//链接显示文字
                 "http://www.apache.org/licenses/LICENSE-2.0.html"//网站链接
         );
